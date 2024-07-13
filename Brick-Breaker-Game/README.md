@@ -17,9 +17,9 @@
 - Create Executable code    
 - Run code
 
-So: 
-MOUNT C C:\MASM
-C:
-MASM p1.asm
-LINK p1.obj
-p1.exe
+###### So: 
+- MOUNT C C:\MASM
+- C:
+- MASM p1.asm
+- LINK p1.obj
+- p1.exe
