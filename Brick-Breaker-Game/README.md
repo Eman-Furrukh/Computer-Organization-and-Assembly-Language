@@ -11,13 +11,15 @@
 - Right Arrow Key = Move Right
 
 #### How to Run this code:
-- Mount:
-    MOUNT C C:\MASM
-- Switch to C Drive:
-    C:
-- Assemble code:
-    MASM p1.asm
-- Create Executable code:
-    LINK p1.obj
-- Run code:
-    p1.exe
+- Mount
+- Switch to C Drive
+- Assemble code
+- Create Executable code    
+- Run code
+
+So: 
+MOUNT C C:\MASM
+C:
+MASM p1.asm
+LINK p1.obj
+p1.exe
